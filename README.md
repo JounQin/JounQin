@@ -2,4 +2,4 @@
 >  
 > Write Less, Think More.
 
-[![JounQin's github stats](https://github-readme-stats.vercel.app/api?username=JounQin&show_icons=true&hide=["title"])](https://github.com/JounQin)
+[![JounQin's github stats](https://github-readme-stats.vercel.app/api?username=JounQin&show_icons=true&hide_title=true])](https://github.com/JounQin)
